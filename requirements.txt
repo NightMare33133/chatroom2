@@ -1,0 +1,6 @@
+tornado
+mysql-connector-python
+sqlalchemy
+sockjs-tornado
+wtforms
+werkzeug
